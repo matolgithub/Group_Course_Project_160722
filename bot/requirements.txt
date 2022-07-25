@@ -1,0 +1,6 @@
+requests
+datetime
+sqlalchemy
+sqlalchemy_utils
+vk_api
+psycopg2

@@ -1,0 +1,26 @@
+{
+  "one_time": false,
+  "buttons": [
+    [{
+        "action": {
+          "type": "text",
+          "label": "Поставить лайк"
+        },
+        "color": "positive"
+      },
+     {
+      "action": {
+        "type": "text",
+        "label": "Убрать лайк"
+      },
+      "color": "negative"
+    }],
+    [{
+        "action": {
+          "type": "text",
+          "label": "Продолжить поиск"
+        },
+        "color": "primary"
+      }]
+  ]
+}
