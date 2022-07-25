@@ -230,8 +230,3 @@ class DataIn:
             list_insert_result.append([insert_result, comment_result])
         return list_insert_result
 
-
-# if __name__ == '__main__':
-    # DataIn.insert_user_table(DataIn('Script_Insert_SQL_table_data.sql', 'db_dating', 'user_dating'))
-    # DataIn.in_blacklist_table(DataIn('Script_Insert_SQL_table_data.sql', 'db_dating', 'user_dating'))
-    # DataIn.in_elected_table(DataIn('Script_Insert_SQL_table_data.sql', 'db_dating', 'user_dating'))
